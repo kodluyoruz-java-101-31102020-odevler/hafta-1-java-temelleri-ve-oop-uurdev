@@ -11,6 +11,7 @@ public class QuestionOne {
      * isteyin. Girilen şifre ile değişkende tuttuğunuz değeri kıyaslayın. Eğer, iki
      * değer birbirine eşitse ekrana "Giriş Başarılı!", değilse "Giriş Başarısız"
      * yazdırın.
+     * test
      */
     public static void main(String[] args) {
 	if (validateAuthenticationUser()) {
